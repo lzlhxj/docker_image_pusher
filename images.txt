@@ -1,9 +1,8 @@
 #需要拉取的镜像
-python:3.8
+apache/rocketmq:5.2.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-kindest/node:v1.30.0
 
 #支持指定架构
 #--platform=linux/amd64
