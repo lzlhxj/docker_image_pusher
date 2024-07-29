@@ -1,17 +1,7 @@
 #需要拉取的镜像
-apache/rocketmq:5.2.0
-kindest/node:v1.21.14
-kindest/node:v1.27.3
-wurstmeister/zookeeper
-python:3.8-slim
-
+wcjiang/reference:latest
 
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-docker.elastic.co/elasticsearch/elasticsearch:7.10.0
-docker.elastic.co/elasticsearch/elasticsearch:6.8.23
-docker.elastic.co/kibana/kibana:7.10.0
-docker.elastic.co/kibana/kibana:6.8.23
 
 #支持指定架构
 #--platform=linux/amd64
