@@ -1,5 +1,5 @@
 #需要拉取的镜像
-wcjiang/reference:latest
+redis:latest
 
 #支持私库
 
