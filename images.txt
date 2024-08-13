@@ -1,5 +1,5 @@
 #需要拉取的镜像
-redis:latest
+mysql:8.0
 
 #支持私库
 
