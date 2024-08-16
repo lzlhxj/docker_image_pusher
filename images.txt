@@ -1,5 +1,7 @@
 #需要拉取的镜像
-mysql:8.0
+maven:3.6.3-openjdk-8
+openjdk:8-jdk-alpine
+openjdk:8-jdk
 
 #支持私库
 
