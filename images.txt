@@ -1,7 +1,6 @@
 #需要拉取的镜像
-maven:3.6.3-openjdk-8
-openjdk:8-jdk-alpine
-openjdk:8-jdk
+mongo:4.1
+mongo:latest
 
 #支持私库
 
