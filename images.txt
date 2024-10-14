@@ -1,6 +1,5 @@
 #需要拉取的镜像
-mongo:4.1
-mongo:latest
+minio/minio
 
 #支持私库
 
