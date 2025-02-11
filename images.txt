@@ -1,5 +1,7 @@
 #需要拉取的镜像
 gitlab/gitlab-runner:latest
+gitlab/gitlab-runner:v17.4.0
+gitlab/gitlab-ce:17.4.0-ce.0
 
 #支持私库
 
