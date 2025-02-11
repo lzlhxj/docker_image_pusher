@@ -1,5 +1,5 @@
 #需要拉取的镜像
-minio/minio
+gitlab/gitlab-runner:17.4
 
 #支持私库
 
