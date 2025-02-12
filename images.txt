@@ -1,5 +1,5 @@
 #需要拉取的镜像
-openjdk:11-jdk-slim
+docker:stable
 
 #支持私库
 
