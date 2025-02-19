@@ -1,5 +1,5 @@
 #需要拉取的镜像
-docker:stable
+vesoft/nebula-graphd:v3.6.0
 
 #支持私库
 
